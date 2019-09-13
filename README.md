@@ -36,3 +36,10 @@ Route any questions about these materials to medicaldata@yale.edu.
 4. Working with Data
 
   Attend this session (or flip through these presentaiton slides) if you are new to integrating data into your current  research workflows. The slides will guide you through the "research data lifecycle" (see slide 3 of this presentation), which includes the collection, finding, organizing, wrangling analysis, documentation, and sharing of reserch data. 
+  
+5. Unix Shell: Working with Data
+  This session, which is made up of a brief presentation followed by a longer hands-on demonstration in the Unix Shell. We will overview and demonstrate how you can work and manipulate data files using a command line interface. 
+
+  This workshop may be useful to you if you work with a large number of related spreadsheets or files, or if you have an interest in learning more about how your computer functions behind its graphical user interface (GUI).
+
+
