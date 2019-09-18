@@ -21,3 +21,17 @@ responses + short_list
 sort(samples)
 unique(samples)
 
+####### NA VALUES IN VECTORS
+vy <- c(1, 2, 3, NA, 5)
+mean(vy)
+mean(vy, na.rm=TRUE) # remove the null values in order to perform mathmatical functions
+
+# removing NA values
+vy[ !is.na(vy) ]
+
+####### NULL VALUES IN VECTORS
+vx <- c(1, 2, 3, NULL, 5)
+sum(vx)
+
+# removing NULL values
+vx[ !is.null(vx)]
