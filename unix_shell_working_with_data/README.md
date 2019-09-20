@@ -9,3 +9,5 @@ It is recommended in this class that Windows 10 users install a Unix Shell onto 
 Resources referenced in this class include: 
 * ShellCheck: https://www.shellcheck.net/
 * Explainshell: https://explainshell.com/explain?cmd=true%20%26%26%20%7B%20echo%20success%3B%20%7D%20%7C%7C%20%7B%20echo%20failed%3B%20%7D 
+* Unix / Linux Cheat Sheet: http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+* Linkedin Learning at Yale (search for Unix or Linux tutorial videos): https://your.yale.edu/work-yale/learn-and-grow/online-learning
