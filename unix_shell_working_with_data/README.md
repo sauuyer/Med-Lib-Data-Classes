@@ -5,3 +5,7 @@ The data used in this session comes from the MIMIC Critical Care Database, which
 A description of the commands used in this demo will be added to this repository shortly.
 
 It is recommended in this class that Windows 10 users install a Unix Shell onto their machine. Here is a recommended tutorial: https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/ 
+
+Resources referenced in this class include: 
+* ShellCheck: https://www.shellcheck.net/
+* https://explainshell.com/explain?cmd=true%20%26%26%20%7B%20echo%20success%3B%20%7D%20%7C%7C%20%7B%20echo%20failed%3B%20%7D 
