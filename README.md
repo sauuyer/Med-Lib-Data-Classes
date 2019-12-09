@@ -24,10 +24,9 @@ Session Objectives:
   * For loops
   * Data structures in R
 
-### 3. Introduction to Research Data Management - a.k.a. Research Data Management for the Health Sciences
+### 3. Core Concepts of Research Data Management
 
 These slides...
-   * Define research data and research data management (RDM)
    * Highlight the importance of RDM
    * Identify best practices, strategies, and software for data management
    * Identify research data support providers at Yale
